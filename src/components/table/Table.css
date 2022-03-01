@@ -1,0 +1,46 @@
+table {
+    width: 100%;
+    margin: 50px;
+    background-color: white;
+    border-collapse: collapse; 
+}
+
+th {
+    text-align: left;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px; 
+    padding-left: 20px;
+}
+
+td {
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px; 
+    padding-left: 20px;
+}
+
+tr {
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.order-Cancelled {
+    color: red;
+    font-weight: 300;
+}
+
+.order-Delivered {
+    color: #d8b000;
+}
+
+.order-Confirmed {
+    color: green;
+}
+
+.order-time {
+    font-weight: bold;
+}
+
+.order-id {
+    font-weight: lighter;
+}

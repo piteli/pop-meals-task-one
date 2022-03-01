@@ -1,0 +1,16 @@
+.order-view-container {
+    background-color: #e0e0e0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.table-component-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-message {
+    background-color: white;
+    padding: 20px;
+}
